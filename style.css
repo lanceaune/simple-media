@@ -11,3 +11,18 @@ footer {
     font-size: 0.8em;
     color: #666666;
 }
+
+figure {
+    float: right;
+    margin: 10px;
+    padding: 5px;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    box-shadow: 5px 5px 5px #828282;
+}
+
+figcaption {
+    text-align: center;
+    font-size: .8em;
+    font-style: italic;
+}
